@@ -549,7 +549,7 @@ code {
 }
 
 #content a h2 code {
-  float: right;
+
   font-size: 14px;
 }
 
@@ -612,9 +612,7 @@ code {
   background: #e02a10;
 }
 
-/* Reference's body */
-#content h3 {
-}
+
 
 #content .body {
   border-top: 1px solid #eef1f2;
@@ -622,18 +620,6 @@ code {
   padding: 15px 15px 0;
 }
 
-#content .body code {
-  border: 1px solid #e2e7ea;
-  background: #eef1f2;
-  border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  color: #546974;
-  padding: 0 1px;
-}
 
-#content .body p > code {
-  display: block;
-  padding: 15px;
-  white-space: pre;
-}
+
+
